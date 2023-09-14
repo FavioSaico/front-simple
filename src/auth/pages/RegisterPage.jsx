@@ -27,6 +27,7 @@ export const RegisterPage = () =>{
             email,
             password
         }
+        console.log(data);
         setTimeout(()=>{
             setMessage({
                 state: true,
