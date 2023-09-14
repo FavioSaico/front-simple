@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "648272dbb8ba419946be9939",
+        "name": "Amazon Alexa Echo Dot 5 Generación Smart Hub Parlante Negro",
+        "description": "El parlante inteligente más popular de Amazon",
+        "stock": 14,
+        "price": 250,
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/17842229_1?wid=800&hei=800&qlt=70"
+    },
+    {
+        "_id": "64fa98d36497a2acde42abbf",
+        "name": "Logitech MK270 Combo de teclado y mouse inalámbricos",
+        "description": "Para Windows, 2.4 GHz inalámbrico, ratón compacto, 8 teclas multimedia y acceso directo, para PC, portátil, color negro",
+        "stock": 50,
+        "price": 27.8,
+        "img": "https://m.media-amazon.com/images/I/61pUul1oDlL._AC_SX466_.jpg"
+    },
+    {
+        "_id": "64fa99176497a2acde42abc1",
+        "name": "Logitech Cámara web C920x HD Pro",
+        "description": "Videollamadas Full HD de 1080p/30fps, audio estéreo claro, corrección de luz HD, funciona con Skype, Zoom, FaceTime, Hangouts, PC/Mac/Laptop/MacBook/Tableta, color negro",
+        "stock": 100,
+        "price": 88.95,
+        "img": "https://m.media-amazon.com/images/I/71iNwni9TsL._AC_SX466_.jpg"
+    },
+    {
+        "_id": "64fa998f6497a2acde42abc4",
+        "name": "Samsung 970 EVO Plus SSD 2TB NVMe M.2",
+        "description": "Disco duro interno de estado sólido, tecnología V-NAND, almacenamiento y expansión de memoria para juegos, gráficos con control de calor, velocidad máxima, MZ-V7S2T0B/AM",
+        "stock": 100,
+        "price": 89.99,
+        "img": "https://m.media-amazon.com/images/I/61QFPk2HBmL._AC_SX679_.jpg"
+    },
+        {
+        "_id": "64fa99c86497a2acde42abc6",
+        "name": "Auricular USB H390 ClearChat Comfort de Logitech",
+        "description": "Los productos con enchufes eléctricos están diseñados para usarse en EE. UU. Las tomas de corriente y la tensión difieren a nivel internacional.",
+        "stock": 100,
+        "price": 19.99,
+        "img": "https://m.media-amazon.com/images/I/61CqYq+xwNL._AC_SX466_.jpg"
+    },
+        {
+        "_id": "64fa9a096497a2acde42abc8",
+        "name": "Cargador de iPhone de carga rápida [certificado Apple MFi]",
+        "description": "Paquete de 2 cargadores de pared tipo C de Apple con 2 unidades [6 pies y 10 pies] cable USB C a Lightning largo para iPhone 14/13/12/12 Pro Max/11/Xs Max/XR/X, AirPods Pro",
+        "stock": 100,
+        "price": 16.99,
+        "img": "https://m.media-amazon.com/images/I/61N-uGtPpAL._AC_SX466_.jpg"
+    },
+    {
+        "_id": "64fa9a2c6497a2acde42abca",
+        "name": "KYY Monitor portátil de 15.6 pulgadas 1080P FHD",
+        "description": "USB-C Monitor de computadora HDMI Pantalla de computadora HDR IPS Monitor de juegos con cubierta inteligente premium y protector de pantalla, altavoces, para computadora portátil, PC, MAC, teléfono, PS4, Xbox Switch",
+        "stock": 100,
+        "price": 129.99,
+        "img": "https://m.media-amazon.com/images/I/81rsMys9S8L._AC_SX679_.jpg"
+    },
+    {
+        "_id": "64fa9a856497a2acde42abcd",
+        "name": "Extensor/amplificador WiFi más rápido",
+        "description": "Lanzamiento 2023 hasta un 74% más rápido | Cobertura más amplia que nunca, amplificador de señal WiFi para el hogar | Repetidor de Internet/WiFi, con puerto Ethernet, fabricado para Estados Unidos",
+        "stock": 100,
+        "price": 36.99,
+        "img": "https://m.media-amazon.com/images/I/51kHOZQpA5L._AC_SY879_.jpg"
+    },
+    {
+        "_id": "64fa9ad16497a2acde42abd0",
+        "name": "HUANUO Soporte de monitor doble",
+        "description": "Soporte de escritorio de resorte ajustable para monitor de 13 a 27 pulgadas, soporte de monitor doble con capacidad máxima de 14.3 libras, brazos de monitor de computadora con amplio rango de movimiento para oficina en casa",
+        "stock": 100,
+        "price": 49.99,
+        "img": "https://m.media-amazon.com/images/I/61exf-ELhmL._AC_SX679_.jpg"
+    }
+]
