@@ -52,7 +52,7 @@ export const RegisterPage = () =>{
     return(
         <div className="container-2 d-flex align-items-center">
             <form className="form" onSubmit={onSubmit} noValidate="novalidate">
-                <h2 className="form__title">Registrarse</h2>
+                <h2 className="form__title">Registrarse 2</h2>
                 <p className="form__paragraph">¿Ya tienes cuenta? <Link to='/auth/login' className="form__link">Iniciar sesión</Link></p>
                 
                 <div className="form__container">

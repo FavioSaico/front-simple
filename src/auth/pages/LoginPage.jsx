@@ -43,7 +43,7 @@ export const LoginPage = () =>{
     return(
         <div className="container-2 d-flex align-items-center ">
             <form className="form" onSubmit={onSubmit} noValidate="novalidate">
-                <h2 className="form__title">Iniciar sesión</h2>
+                <h2 className="form__title">Iniciar sesión 2</h2>
                 <p className="form__paragraph">¿Aún no tiene cuenta? <Link to='/auth/register' className="form__link">Entra aquí</Link></p>
                 
                 <div className="form__container">
